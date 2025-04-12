@@ -1,0 +1,62 @@
+.h1{
+    background-color: bisque;
+}
+.familya{
+color: chocolate;
+}
+.ism{
+    color: chocolate;
+}
+.tel{
+    color: chocolate;
+}
+.parol{
+    color: chocolate;
+}
+.email{
+    color: chocolate;
+}
+.jonatish{
+    color: rgb(5, 244, 37);
+}
+body {
+    text-align: center;
+}
+body {
+    background-color: rgb(134, 177, 223);
+}
+.tr{
+    background-color: rgb(240, 139, 8);
+}
+.tr1{
+    background-color: rgb(68, 68, 177);
+}
+.tr2{
+    background-color: rgb(67, 67, 136);
+}
+.tr3{
+    background-color: rgb(68, 68, 131);
+}
+.p1{
+color: rgb(229, 132, 47);
+}
+.h4{
+    color: rgb(229, 166, 7);
+}
+.p3{
+    padding:20px ;
+    background-color: aqua;
+    
+}
+.kartinka{
+    width: 20%;
+    border: 5px solid yellow;
+}
+.p4{
+    padding: 20px;
+    background-color: chartreuse;
+}
+.qurt{
+    width: 20%;
+    border: 5px solid yellow;
+}
